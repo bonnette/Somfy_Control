@@ -5,3 +5,6 @@ A simple ESP8266 project to control window shades from the internet
 The Adafruit ESP8266 (Hazzah) board displays a set of buttons in a web page.
 <br/><br/>
 <img src="https://github.com/bonnette/Somfy_Control/blob/master/photo/shade_control.jpg" width="300">
+<br/><br/>
+The page controls the onboard LED for testing purposes as well as the shade Up/Down.<br/>
+The Hazzah web page can be accessed on the internet using port forwarding on your local network.
